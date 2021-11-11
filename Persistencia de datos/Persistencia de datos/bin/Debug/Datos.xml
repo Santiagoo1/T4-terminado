@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <inventario>
+    <Nombre>Martillo</Nombre>
+    <Codigo>20</Codigo>
+    <Precio>5000</Precio>
+  </inventario>
+</DocumentElement>

@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Persistencia de datos\Persistencia de datos\bin\Debug\Persistencia de datos.exe.config
+C:\Users\Usuario\source\repos\Persistencia de datos\Persistencia de datos\bin\Debug\Persistencia de datos.exe
+C:\Users\Usuario\source\repos\Persistencia de datos\Persistencia de datos\bin\Debug\Persistencia de datos.pdb
+C:\Users\Usuario\source\repos\Persistencia de datos\Persistencia de datos\obj\Debug\Persistencia de datos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Persistencia de datos\Persistencia de datos\obj\Debug\Persistencia_de_datos.Form1.resources
+C:\Users\Usuario\source\repos\Persistencia de datos\Persistencia de datos\obj\Debug\Persistencia_de_datos.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Persistencia de datos\Persistencia de datos\obj\Debug\Persistencia de datos.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Persistencia de datos\Persistencia de datos\obj\Debug\Persistencia de datos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Persistencia de datos\Persistencia de datos\obj\Debug\Persistencia de datos.exe
+C:\Users\Usuario\source\repos\Persistencia de datos\Persistencia de datos\obj\Debug\Persistencia de datos.pdb
